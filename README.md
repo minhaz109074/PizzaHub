@@ -9,7 +9,7 @@
 - Order details page
 - My orders page (list of my previous orders)
 
-##Screenshots
+## Screenshots
 <p float="left">
   <img src="screenshots/hero.png" height="400" />
   <img src="screenshots/productList.png" height="400" />
@@ -21,7 +21,7 @@
   <img src="screenshots/cart.png" height="400" />
 </p>
 <p float="left">
-  <img src="screenshots/chechout.png" height="400" />
+  <img src="screenshots/checkout.png" height="400" />
   <img src="screenshots/formValidation.png" height="400" />
   <img src="screenshots/confirmOrder.png" height="400" />
 </p>
