@@ -1,5 +1,7 @@
 # PizzaHub - A website for ordering pizza that was built using ReactJs and NextJs
 
+## Live link - https://pizza-hub-two.vercel.app/
+
 ## Main features
 
 - Prouduct list page with quickview
