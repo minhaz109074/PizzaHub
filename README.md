@@ -8,3 +8,24 @@
 - Checkcout (with proper form validation)
 - Order details page
 - My orders page (list of my previous orders)
+
+##Screenshots
+<p float="left">
+  <img src="screenshots/hero.png" height="400" />
+  <img src="screenshots/productList.png" height="400" />
+  <img src="screenshots/quickviewButton.png" height="400" />
+</p>
+<p float="left">
+  <img src="screenshots/quickviewDetails.png" height="400" />
+  <img src="screenshots/productDetails.png" height="400" />
+  <img src="screenshots/cart.png" height="400" />
+</p>
+<p float="left">
+  <img src="screenshots/chechout.png" height="400" />
+  <img src="screenshots/formValidation.png" height="400" />
+  <img src="screenshots/confirmOrder.png" height="400" />
+</p>
+<p float="left">
+  <img src="screenshots/orderDetails.png" height="400" />
+  <img src="screenshots/myOrders.png" height="400" />
+</p>
