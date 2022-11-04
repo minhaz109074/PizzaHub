@@ -1,0 +1,47 @@
+.header {
+  position: sticky;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 15rem;
+  background-color: #ff6b00;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  z-index: 10;
+}
+.order {
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+.order:hover,
+.button:active,
+.homeLink a:hover,
+.homeLink a:active {
+  color: #eeeeee;
+}
+/* @media screen and (min-width: 480px) {
+  .order {
+    padding-left: 20%;
+  }
+}
+@media screen and (min-width: 768px) {
+  .order {
+    padding-left: 30%;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .order {
+    padding-left: 40%;
+  }
+/* } */
+@media screen and (min-width: 480px) {
+  .header {
+    flex-direction: row;
+    height: 5rem;
+  }
+}

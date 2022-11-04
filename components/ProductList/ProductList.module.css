@@ -1,0 +1,13 @@
+.products {
+  max-width: 60rem;
+  width: 90%;
+  margin: 2rem auto;
+  margin-top: 6rem;
+  background-color: #fefefe;
+}
+
+.productHead {
+  font-size: 2rem;
+  letter-spacing: -0.5px;
+  margin-bottom: 2rem;
+}
